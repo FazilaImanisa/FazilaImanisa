@@ -4,7 +4,7 @@ Hi i'm Fazila Imanisa, a novice programmer who has a high curiosity and always h
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 📫 want to reach me?, [email](mailto:fazilanisa3@gmail.com) :)
+- 📫 want to reach me?, [email](mailto:fazila_imanisa_29rpl@student.smktelkom-mlg.sch.id) :)
 - 💬 ask me about anything, I am happy to help;
 
 ### Connect with me:

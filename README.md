@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi i'm Fazila Imanisa, a novice programmer who has a high curiosity and always has a thirst for knowledge from Indonesia. I take a great care in neat appearance and ease in program i built.
 

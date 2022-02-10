@@ -12,6 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [<img align="left" alt="https://github.com/FazilaImanisa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fazlmsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://www.linkedin.com/in/fazila-imanisa | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -32,4 +33,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [instagram]: https://www.instagram.com/fazlmsa/
 [website]: https://github.com/FazilaImanisa
+[linkedin]: https://www.linkedin.com/in/fazila-imanisa
 

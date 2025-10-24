@@ -1,12 +1,11 @@
 ### Hey, Traveler. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome to my corner of the internet.
-I’m Jila — I write code, chase ideas, and occasionally get lost in debugging loops that turn into discoveries.
+
+I’m Jila, I write code, chase ideas, and occasionally get lost in debugging loops that turn into discoveries.
 
 I like building things that look simple but carry a lot of thought underneath.
-Sometimes they work perfectly. Sometimes they don’t. Either way, I learn.
-
-Open-source is where I test ideas, learn from others, and leave small traces of what I’ve figured out along the way.
+Sometimes they work perfectly. Sometimes they don’t. Either way, I learn. Open-source is where I test ideas, learn from others, and leave small traces of what I’ve figured out along the way.
 
 ### ✉️ Reach Out:
 - Email me: [here](mailto:fazilaimanisabusiness@gmail.com)

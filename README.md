@@ -21,9 +21,9 @@ Open-source is where I test ideas, learn from others, and leave small traces of 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/laravel/laravel.png">
-<img width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img align="left" alt="Laravel" width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg">
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 <br />
 <br />
 
